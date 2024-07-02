@@ -4,7 +4,7 @@
 ## Tabla de contenidos
 * [Introducción](#introduccion)
 * [Herramientas ocupadas](#herramientas)
-* [Preguntas frecuentes](#preguntas)
+* [Autor](#autor)
 * [Contacto](#contacto)
 
 ## Introducción <a name="introduccion"></a> 
@@ -13,7 +13,7 @@
 
 
 ## Herramientas ocupadas <a name="herramientas"></a> 
-  ### Escribe aquí:
+  ### Se intentó incorporar todos los requerimientos pedidos:
   HTML5
   - Para hacer la estructura y maqueta del proyecto.
 
@@ -22,16 +22,21 @@
 
   Bootstrap
 
-  - Para darle 
+  - Para darle algunas funcionalidades, como la responsividad, tamaños de cajas, textos, colores de fondos, etc.
 
-  ¿Cómo se ve tu proyecto?
-  - Incluye imágenes para que tus usuarios conozcan tu proyecto:
-  ![Imagen1](https://user-images.githubusercontent.com/69361149/160888732-44fef9de-b60b-43e3-ba1e-1bf1ae004b52.png)
+   JS
 
-## Preguntas frecuentes <a name="preguntas"></a> 
-- Escribe y contesta aquí las preguntas que tus usuarios podrían tener acerca del contenido de tu repositorio y cómo replicarlo.
-- Escribe aquí si se han hecho actualizaciones a tu proyecto desde la primera versión.
-- Nota: recuerda mantener tu README actualizado en cada versión de tu proyecto.
+  - Carrusel y tooltip.
+
+  ¿Cómo se ve?
+  - Así quedó la propuesta:
+  ![Imagen1](image-1.png)
+  ![Imagen2](image-2.png)
+  ![Imagen3](image-3.png)
+  ![Imagen4](image.png)
+
+## Autor <a name="autor"></a> 
+- Jazmín Meneses Díaz.
 
 ## Contacto 
-- Escribe aquí el nombre de los contribuyentes al proyecto y dónde se pueden contactar.
+- [linkedin](https://www.linkedin.com/in/jazminmeneses/)
