@@ -1,0 +1,37 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.card h6 {
+    color: white;
+}
+
+
+body {
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+h2 {
+    font-weight: 300;
+    margin-top: 1rem;
+}
+
+footer {
+    padding-top: 1rem;
+}
+
